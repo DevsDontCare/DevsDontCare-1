@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("https://www.tokkoro.com/picsup/2842221-pacman-video-games-simple-colorful-classics-black-background___game-wallpapers.jpg");
+    background-image: url(https://www.tokkoro.com/picsup/2842221-pacman-video-games-simple-colorful-classics-black-background___game-wallpapers.jpg);
 }
 
 #header {
@@ -8,7 +8,7 @@ body {
     margin-left: 30%;
     margin-right: 30%;
     background-color: black;
-    color: white;
+    color:white;
 }
 
 .header {
@@ -21,4 +21,6 @@ body {
 
 .paragraph {
     text-align: center;
+}
+
 }
