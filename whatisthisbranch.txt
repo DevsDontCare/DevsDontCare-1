@@ -1,0 +1,3 @@
+gh-pages is github pages. 
+i'm using it as a bug testing site where i push to this branch and view the site on github pages before pushing it to master and putting it on the main site.
+feel free to use it too
