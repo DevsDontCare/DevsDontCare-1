@@ -1,0 +1,3 @@
+this file explains different features of git and/or the files in this repository
+
+the .gitignore file tells git when files and folders should be ignored and not pushed. i have added a folder to this called Ignore. put files that you do not want to be pushed to the repository such as editor files (.vs for visual studio)
