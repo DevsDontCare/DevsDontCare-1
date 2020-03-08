@@ -67,3 +67,15 @@ body {
     text-decoration: none;
     color: white;
 }
+
+#litchat {
+    color: white;
+    margin-top: 10%;
+}
+#litchat iframe {
+    border: none;
+}
+#litchat a {
+    color: white;
+    text-decoration: none;
+}
