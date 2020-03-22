@@ -1,2 +1,2 @@
 # DevsDontCare
-DevsDontCare is an upcoming community where Developers, Gamers, Companies and more to exchange ideas for games and apps. DevsDontCare helps early starting game and app Developers figure out what they are going to do with their skills.
+DevsDontCare is an upcoming community for Developers, Gamers, Companies and more to exchange ideas for games and apps. DevsDontCare helps early starting game and app Developers figure out what they are going to do with their skills.
